@@ -1,3 +1,3 @@
 - Hello! I'm Nick. I'm currently a student in the Master of Applied Data Science program at University of Michigan.
-- I'm interested in all things data! Once I graduate, I'd like to work in the education sector where I can explore data driven solutions for students.
-- I'll be posting some of my class projects on here. Please feel free to reach out if you'd like to collaborate on a project!
+- I'm interested in all things data! Once I graduate, I'd like to work in the financial sector analyzing financial data.
+
