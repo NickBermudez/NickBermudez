@@ -1,2 +1,1 @@
-- Hello! I'm Nick. I'm an almost graduate of the Master of Applied Data Science program at University of Michigan.
-
+Hello! I’m Nicholas Bermudez, a recent graduate of the University of Michigan with a Master of Applied Data Science. I’m actively seeking opportunities to apply my skills and contribute to impactful data-driven solutions. Feel free to check out my projects and connect!
